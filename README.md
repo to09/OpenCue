@@ -10,7 +10,43 @@
 # Introduction
 
 OpenCue is an open source render management system. You can use OpenCue in
+visual effects and animation pro![OpenCue](/images/opencue_logo_with_text.png)
+2
+​
+3
+[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/2837/badge)](https://bestpractices.coreinfrastructure.org/projects/2837)
+4
+​
+5
+- [Introduction](#Introduction)
+6
+- [OpenCue features](#OpenCue-features)
+7
+- [Learn more](#Learn-more)
+8
+- [Contact us](#Contact-us)
+9
+​
+10
+# Introduction
+11
+​
+12
+OpenCue is an open source render management system. You can use OpenCue in
+13
 visual effects and animation production to break down complex jobs into
+14
+individual tasks. You can submit jobs to a configurable dispatch queue that
+15
+allocates the necessary computational resources.
+16
+​
+17
+# OpenCue features
+18
+​
+19
+OpenCue provides the following features to help manage reduction to break down complex jobs into
 individual tasks. You can submit jobs to a configurable dispatch queue that
 allocates the necessary computational resources.
 
